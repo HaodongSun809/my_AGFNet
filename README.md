@@ -5,13 +5,11 @@ the code
 1. Requirements  
    Pytorch 1.11; Python 3.8; Cuda 10.0;  
 ****  
-2. Data Preparation  
+2. Download the folder 'datasets' from 'https://pan.baidu.com/s/19EPBeyJLE1uZqyXBoVkK9Q'[code:8888].  
 ****  
-3. Download the datasets from 'https://pan.baidu.com/s/19EPBeyJLE1uZqyXBoVkK9Q'[code:8888].  
+4.Download the folder 'pretrain_models' (output\SCNet_multi_V7\Net_epoch_best.pth) from 'https://pan.baidu.com/s/1aVpKUG9s5OS6ek2eq4y0Rg'[code:8888].     
 ****  
 5.Download the trained model (output\SCNet_multi_V7\Net_epoch_best.pth) from 'https://pan.baidu.com/s/1IZlqBoHXUgLzD_3yFrGVIg' [code:8888].   
-****  
-5.Download the folder 'pretrain_models' (output\SCNet_multi_V7\Net_epoch_best.pth) from 'https://pan.baidu.com/s/1aVpKUG9s5OS6ek2eq4y0Rg'[code:8888].     
 ****  
 6.Then put them under the following directory:  
    .idea  
