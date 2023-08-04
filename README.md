@@ -9,9 +9,9 @@ the code
 ****  
 3. Download the datasets from 'https://pan.baidu.com/s/19EPBeyJLE1uZqyXBoVkK9Q'[code:8888].  
 ****  
-5.Download the trained model (output\SCNet_multi_V7\Net_epoch_best.pth) from here:https://pan.baidu.com/s/1IZlqBoHXUgLzD_3yFrGVIg [code:8888].   
+5.Download the trained model (output\SCNet_multi_V7\Net_epoch_best.pth) from 'https://pan.baidu.com/s/1IZlqBoHXUgLzD_3yFrGVIg' [code:8888].   
 ****  
-5.Download the pretrain_models (output\SCNet_multi_V7\Net_epoch_best.pth) from here:https://pan.baidu.com/s/1IZlqBoHXUgLzD_3yFrGVIg [code:8888].   
+5.Download the folder 'pretrain_models' (output\SCNet_multi_V7\Net_epoch_best.pth) from 'https://pan.baidu.com/s/1aVpKUG9s5OS6ek2eq4y0Rg'[code:8888].     
 ****  
 6.Then put them under the following directory:  
    .idea  
