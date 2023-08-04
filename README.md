@@ -4,7 +4,9 @@ the code
 the code
 1. Requirements  
    Pytorch 1.11; Python 3.8; Cuda 10.0;  
+****  
 2. Data Preparation  
+****  
 3. Download the datasets from 'https://pan.baidu.com/s/19EPBeyJLE1uZqyXBoVkK9Q'[code:8888] and trained model (output\SCNet_multi_V7\Net_epoch_best.pth) from here:https://pan.baidu.com/s/1IZlqBoHXUgLzD_3yFrGVIg [code:8888]. Then put them under the following directory:  
    .idea  
    dataset\   
@@ -20,7 +22,7 @@ the code
    evalold.py  
    test.py  
    train.py  
-
+****  
 4.Training & Testing  
 (1)Train the BBSNet:  
     batchsize 4 --gpu_id 0   
